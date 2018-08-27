@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pandas
+torch=0.4.1
+torchvision
+Pillow
+click
+tqdm=4.24.0
